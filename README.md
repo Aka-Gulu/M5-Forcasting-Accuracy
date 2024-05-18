@@ -1,7 +1,7 @@
 # M5-Forcasting-Accuracy
 
 ## Slides & Kaggle Link
-[Slides link](https://docs.google.com/presentation/d/1je-sG98GJZwzrhGTfzMmSXuKxgYhRlcM/edit?usp=sharing&ouid=113313002084083777814&rtpof=true&sd=true)  
+[Slides link](https://drive.google.com/file/d/1COWY0AOzeu5rIL-GNNaQ5oYmd5M__J3X/view?usp=sharing)  
 
 [Kaggle Competition link](https://www.kaggle.com/competitions/m5-forecasting-accuracy)
 
